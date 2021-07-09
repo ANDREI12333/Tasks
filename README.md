@@ -8,4 +8,4 @@ Linux: Built-in
 
 MacOS: Built-in
 
-if you have any issues make a [new issue](https://github.com/Andrei12333/Tasks/issues)
+if you have any issues make a [new issue](https://github.com/Andrei12333/Tasks/issues/new/choose)
